@@ -2,7 +2,7 @@
 If trying to run on your computer, look here for more info! 
 
 
-this is a gambler game for ppl who can not really bet or do not want to lose real money.
+this is a gambler game for ppl who do not want to really bet rwal money or do not want to lose real money!
 
 to run this game you need 
 1. a computer that has python3 ( If you can, run this on linux and on zorin or ubuntu)
